@@ -92,5 +92,3 @@ services:
       - ./config/provisioning/:/etc/grafana/provisioning
     ports:
       - 3000:3000
-
-      **
